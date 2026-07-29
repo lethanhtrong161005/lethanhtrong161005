@@ -18,7 +18,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineering student at FPT University** and a **Java Backend Developer** passionate about designing and building reliable, scalable, and maintainable software systems.
+I'm a **Java Backend Developer** with a background in **Software Engineering**, passionate about designing and building **reliable, scalable, and maintainable software systems**.
 
 My primary focus is **backend development with Java and Spring Boot**, with hands-on experience building **RESTful APIs, authentication systems, database-driven applications, and microservice-oriented architectures**.
 
