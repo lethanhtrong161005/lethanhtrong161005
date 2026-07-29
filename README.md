@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lê Thanh Trọng
 
-### Java Backend Developer | Software Engineering Student | Backend & System Architecture Enthusiast
+### Java Backend Developer | Backend & System Architecture Enthusiast
 
 <p align="left">
   <a href="https://github.com/lethanhtrong161005">
